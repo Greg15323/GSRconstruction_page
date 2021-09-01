@@ -1,4 +1,14 @@
 import React from 'react';
+// import background from '../../../public/images/gsrconstruction.png';
+
+// const BackgroundAnimation = () => (
+//   <div style={{ backgroundImage: `url(${background})` }}>
+//     <img src="/images/gsrconstruction.png" alt=""/>
+//     </div>
+// );
+
+// export default BackgroundAnimation;
+
 
 const BackgroundAnimation = () => (
   <div>
