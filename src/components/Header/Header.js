@@ -4,17 +4,45 @@ import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 import { GiMountains } from 'react-icons/gi';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
 const Header = () =>  (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{ display : "flex", alignItems: "center", color: 'white' }}>
-          <GiMountains size="3rem" /> <span>GSR Construction</span>
+        <a style={{ display : "flex", alignItems: "center", color: 'white', marginBottom: '20px' }}>
+          <GiMountains size="3rem" /> <Span>GSR Construction</Span>
         </a>
       </Link>
     </Div1>
+    <Div2>
+      <li>
+        <Link href="#home">
+          <NavLink>Home</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="#projects">
+          <NavLink>projects</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="#about">
+          <NavLink>About</NavLink>
+        </Link>
+      </li>
+    </Div2>
+    <Div3>
+      <SocialIcons href="https://github.com">
+        <AiFillGithub size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://linkedin.com">
+        <AiFillLinkedin size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://instagram.com">
+        <AiFillInstagram size="3rem" />
+      </SocialIcons>
+    </Div3>
   </Container>
 );
 
