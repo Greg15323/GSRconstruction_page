@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <sectionDivider />
+      <SectionDivider />
       <SectionTitle>About</SectionTitle>
       <SectionText>
         GSR Construction is devoted in implementing unequaled services in Metal Framing, Drywall, and Acustic Ceiling. 
