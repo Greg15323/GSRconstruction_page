@@ -1,5 +1,7 @@
 import React from 'react';
-import { DiFirebase, AiOutlineSafetyCertificate, DiZend } from 'react-icons/ai';
+import { AiOutlineSafetyCertificate } from 'react-icons/ai';
+import { FaRegHandshake, FaHardHat } from 'react-icons/fa';
+import { HiOutlineClipboardCheck } from 'react-icons/hi';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -14,6 +16,35 @@ const Technologies = () =>  (
       <ListItem>
         <AiOutlineSafetyCertificate size="3rem" />
         <ListTitle>Safety</ListTitle>
+        <ListParagraph>
+          We aim to maintain <br />
+          a clean and safe <br />
+          work environment.
+        </ListParagraph>
+      </ListItem>
+      <ListItem>
+        <FaRegHandshake size="3rem" />
+        <ListTitle>Integrity</ListTitle>
+        <ListParagraph>
+          We strive to sustian <br />
+          clear communication <br />
+          and keep you informed<br />
+          on the progress of your <br />
+          project.
+        </ListParagraph>
+      </ListItem>
+      <ListItem>
+        <HiOutlineClipboardCheck size="3rem" />
+        <ListTitle>Reliability</ListTitle>
+        <ListParagraph>
+          We aim to maintain <br />
+          a clean and safe <br />
+          work environment.
+        </ListParagraph>
+      </ListItem>
+      <ListItem>
+        <FaHardHat size="3rem" />
+        <ListTitle>Quality Workmanship</ListTitle>
         <ListParagraph>
           We aim to maintain <br />
           a clean and safe <br />
