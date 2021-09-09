@@ -4,9 +4,13 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <div>
-    
-  </div>
+  <Section id="tech">
+    <SectionDivider />
+    <SectionTitle>Values</SectionTitle>
+    <SectionText>
+      Here is preview of our values. 
+    </SectionText>
+  </Section>
 );
 
 export default Technologies;
