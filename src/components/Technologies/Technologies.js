@@ -37,9 +37,11 @@ const Technologies = () =>  (
         <HiOutlineClipboardCheck size="3rem" />
         <ListTitle>Reliability</ListTitle>
         <ListParagraph>
-          We aim to maintain <br />
-          a clean and safe <br />
-          work environment.
+          We go the extra <br />
+          distance and put <br />
+          everyting into your <br />
+          project to ensure its <br />
+          done right the first time.
         </ListParagraph>
       </ListItem>
       <ListItem>
