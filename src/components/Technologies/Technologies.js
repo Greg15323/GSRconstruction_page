@@ -39,7 +39,7 @@ const Technologies = () =>  (
         <ListParagraph>
           We go the extra <br />
           distance and put <br />
-          everyting into your <br />
+          everything into your <br />
           project to ensure its <br />
           done right the first time.
         </ListParagraph>
