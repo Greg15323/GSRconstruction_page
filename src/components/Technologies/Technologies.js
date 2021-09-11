@@ -51,7 +51,6 @@ const Technologies = () =>  (
           and gurantee perfection from <br />
           our highly skilled team on <br />
           every project.
-          
         </ListParagraph>
       </ListItem>
     </List>
