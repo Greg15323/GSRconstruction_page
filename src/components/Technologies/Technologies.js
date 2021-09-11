@@ -37,10 +37,9 @@ const Technologies = () =>  (
         <HiOutlineClipboardCheck size="3rem" />
         <ListTitle>Reliability</ListTitle>
         <ListParagraph>
-          We go the extra <br />
-          distance and put <br />
-          everything into your <br />
-          project to ensure its <br />
+          We go the extra distance  <br />
+          and put everything into <br />
+          your project to ensuer its<br />
           done right the first time.
         </ListParagraph>
       </ListItem>
