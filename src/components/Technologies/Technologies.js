@@ -8,9 +8,9 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
+    <br />
     <SectionTitle>Values</SectionTitle>
-    <SectionText>
-      Here is preview of our values. 
+    <SectionText>  
     </SectionText>
     <List>
       <ListItem>
