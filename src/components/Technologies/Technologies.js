@@ -48,9 +48,11 @@ const Technologies = () =>  (
         <FaHardHat size="3rem" />
         <ListTitle>Quality Workmanship</ListTitle>
         <ListParagraph>
-          We aim to maintain <br />
-          a clean and safe <br />
-          work environment.
+          We utilize leading products <br />
+          and gurantee perfection from <br />
+          our highly skilled team on <br />
+          every project.
+          
         </ListParagraph>
       </ListItem>
     </List>
