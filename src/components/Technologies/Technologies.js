@@ -26,6 +26,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <FaRegHandshake size="3rem" />
+        <ListContainer>
         <ListTitle>Integrity</ListTitle>
         <ListParagraph>
           We strive to sustian <br />
@@ -34,6 +35,7 @@ const Technologies = () =>  (
           on the progress of your <br />
           project.
         </ListParagraph>
+        </ListContainer>
       </ListItem>
       <ListItem>
         <HiOutlineClipboardCheck size="3rem" />
