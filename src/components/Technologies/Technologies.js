@@ -15,12 +15,14 @@ const Technologies = () =>  (
     <List>
       <ListItem>
         <AiOutlineSafetyCertificate size="3rem" />
+        <ListContainer>
         <ListTitle>Safety</ListTitle>
         <ListParagraph>
           We aim to maintain <br />
           a clean and safe <br />
           work environment.
         </ListParagraph>
+        </ListContainer>
       </ListItem>
       <ListItem>
         <FaRegHandshake size="3rem" />
