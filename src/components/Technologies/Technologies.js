@@ -39,6 +39,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <HiOutlineClipboardCheck size="3rem" />
+        <ListContainer>
         <ListTitle>Reliability</ListTitle>
         <ListParagraph>
           We go the extra distance  <br />
@@ -46,6 +47,7 @@ const Technologies = () =>  (
           your project to ensuer its<br />
           done right the first time.
         </ListParagraph>
+        </ListContainer>
       </ListItem>
       <ListItem>
         <FaHardHat size="3rem" />
