@@ -51,6 +51,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <FaHardHat size="3rem" />
+        <ListContainer>
         <ListTitle>Quality Workmanship</ListTitle>
         <ListParagraph>
           We utilize leading products <br />
@@ -58,6 +59,7 @@ const Technologies = () =>  (
           our highly skilled team on <br />
           every project.
         </ListParagraph>
+        </ListContainer>
       </ListItem>
     </List>
   </Section>
