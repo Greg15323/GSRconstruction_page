@@ -65,4 +65,4 @@ const Technologies = () =>  (
   </Section>
 );
 
-export default Technologies;
+export default Technologies; 
