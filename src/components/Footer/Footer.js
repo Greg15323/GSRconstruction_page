@@ -17,6 +17,9 @@ const Footer = () => {
         <LinkItem href="mailto:gsrconstructionut@gmail.com">GSRCONSTRUCTIONUT@GMAIL.COM</LinkItem>
        </LinkColumn>
       </LinkList>
+      <CompanyContainer>
+        <Slogan>GSR CONSTRUCTION © 2021 |</Slogan>
+      </CompanyContainer>
     </FooterWrapper>
   );
 };
