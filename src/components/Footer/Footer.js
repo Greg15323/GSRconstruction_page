@@ -18,7 +18,8 @@ const Footer = () => {
        </LinkColumn>
       </LinkList>
       <CompanyContainer>
-        <Slogan>GSR CONSTRUCTION © 2021 |</Slogan>
+        <Slogan>GSR CONSTRUCTION © 2021 | <LinkItem href="https://www.linkedin.com/in/greg-rodriguez-5936331b5/">Designed by Greg Rodriguez</LinkItem>
+        </Slogan>
       </CompanyContainer>
     </FooterWrapper>
   );
