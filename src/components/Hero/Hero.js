@@ -13,7 +13,7 @@ const Hero = () => (
       <SectionText>
       GSR Construction is a family owned and operated business, based out of Weber County, UT. Licensed and insured allows us to proudly service all of Utah. We specialize in both residential and commercial work, in which we pride ourselves with the ability to add custom detail work based on the customers needs/vision and budget. 
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = '#projects'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
