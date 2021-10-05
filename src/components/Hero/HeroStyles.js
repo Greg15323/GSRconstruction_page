@@ -8,7 +8,7 @@ export const Img = styled.img`
 `
 export const GridContainer = styled.section`
 display: grid;
-padding: 3rem;
+padding: 0;
 place-items: center;
 column-gap: 2rem;
 row-gap: 3rem;
