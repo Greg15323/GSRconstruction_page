@@ -9,9 +9,9 @@ import { hero } from '../../constants/logo';
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
-      <SectionTitle main center>
+      {/* <SectionTitle main center>
         GSR CONSTRUCTION LLC
-      </SectionTitle>
+      </SectionTitle> */}
       <GridContainer>
       {hero.map(({ id, image }) => (
         <BlogCard key={id}>
@@ -19,7 +19,7 @@ const Hero = () => (
         </BlogCard>
       ))}
       </GridContainer>
-      <Button onClick={() => window.location = '#projects'}>Learn More</Button>
+      <Button onClick={() => window.location = '#projects'}>Recent Projects</Button>
     </LeftSection>
   </Section>
 );

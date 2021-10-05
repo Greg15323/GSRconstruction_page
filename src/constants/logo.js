@@ -1,6 +1,6 @@
 export const hero = [
     {
-        image: '/images/gsrconstruction4.png',
+        image: '/images/gsrconstruction.png',
       id: 0,
     },
   ];
