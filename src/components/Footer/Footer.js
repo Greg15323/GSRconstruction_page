@@ -2,15 +2,14 @@ import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { Section, SectionDivider, SectionTitle, SectionText } from '../../styles/GlobalComponents';
 import { SocialIcons } from '../Header/HeaderStyles';
-import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { ListTitle, CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
 const Footer = () => {
   return (
     <FooterWrapper nopadding id="footer">
       <SectionTitle main>Contact</SectionTitle>
-      <SectionText>
-        Lets work together  
-      </SectionText>
+      <ListTitle>Let's work together. <br />
+      Call or email us for a free estimate.</ListTitle>
       <LinkColumn>
         <LinkTitle>Phone</LinkTitle>
         <LinkItem href="tel:435-225-6099">435-225-6099</LinkItem>
