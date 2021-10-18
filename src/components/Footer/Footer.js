@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <FooterWrapper nopadding id="footer">
       <SectionTitle main>Contact</SectionTitle>
-      <ListTitle>Let's work together. <br />
+      <ListTitle>Let's work together! <br />
       Call or email us for a free estimate.</ListTitle>
       <LinkColumn>
         <LinkTitle>Phone</LinkTitle>
