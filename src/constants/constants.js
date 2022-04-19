@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Crispy Cones',
-    description: "Metal framing was used to build the inside of Crispy Cones located in Logan, UT.",
+    description: "Metal framing was used to build the interior of Crispy Cones located in Logan, UT.",
       image: '/images/crispycones.jpeg',
       tags: ['Metal Framing'],
     source: 'https://google.com',
