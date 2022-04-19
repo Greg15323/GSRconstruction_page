@@ -1,5 +1,5 @@
 import React from 'react';
-import background from '../../../public/images/gsrconstruction4.png';
+import background from '../../../public/images/gsrconstruction.png';
 import Img  from './BackgroundAnimationStyles';
 
 // const BackgroundAnimation = () => (
