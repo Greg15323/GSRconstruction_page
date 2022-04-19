@@ -44,7 +44,7 @@ const Technologies = () =>  (
         <ListParagraph>
           We go the extra distance  <br />
           and put everything into <br />
-          your project to ensuer its<br />
+          your project to ensure its<br />
           done right the first time.
         </ListParagraph>
         </ListContainer>
