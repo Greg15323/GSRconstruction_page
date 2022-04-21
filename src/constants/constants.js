@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Nail Salon',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "A 16' wall was developed for a new Nail Salon dividing other future shops in a buisiness building.",
       image: '/images/nailsalon.PNG',
       tags: ['Metal Framing', 'Drywall', 'Insulation', 'Finish Tape'],
     source: 'https://google.com',
