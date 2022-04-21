@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Residential',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "This was a remodel and finish basement for a residential property",
     image: '/images/residential.jpeg',
     tags: ['Metal/Wood Framing', 'Insulation', 'Textured finish', 'Drywall'],
     source: 'https://google.com',
