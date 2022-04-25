@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Residential',
-    description: "This was a remodel and finish basement for a residential property",
+    description: "This was a remodel and finish basement for a residential property.",
     image: '/images/residential.jpeg',
     tags: ['Metal/Wood Framing', 'Insulation', 'Textured finish', 'Drywall'],
     source: 'https://google.com',
