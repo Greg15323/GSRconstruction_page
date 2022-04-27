@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Nail Salon',
-    description: "A 16' wall was developed for a new Nail Salon dividing other future shops in a buisiness building.",
+    description: "A 16 foot wall was developed for a new Nail Salon dividing other future shops in a buisiness building.",
       image: '/images/nailsalon.PNG',
       tags: ['Metal Framing', 'Drywall', 'Insulation', 'Finish Tape'],
     source: 'https://google.com',
