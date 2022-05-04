@@ -48,7 +48,7 @@ const Timeline = () => {
       <SectionTitle main>About</SectionTitle>
       <SectionText>
         GSR Construction is devoted in implementing unequaled services in Metal Framing, Drywall, and Acoustic Ceiling. 
-        We are a proud family run business based out of Weber County, UT in which we take pride in the skillset to bring 
+        We are a proud family run business based out of Weber County, UT. We take pride in the skillset to bring 
         the customers vision to life. Safety, integrity, reliability and quality workmanship are a handful of values we take pride in.
       </SectionText>
     </Section>
